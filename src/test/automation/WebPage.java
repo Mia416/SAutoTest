@@ -21,7 +21,7 @@ public class WebPage {
 	
 	protected WebDriver driver = null;
 	  protected WebElement elem = null;
-	  //public TelemetryClient t2Client = null;
+	  
 
 	  protected static final int webDriverWaitTime = 20; // this is 20 secs
 
