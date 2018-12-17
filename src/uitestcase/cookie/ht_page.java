@@ -93,7 +93,7 @@ public class ht_page extends WebPage{
         Thread.sleep(6000);
         safeClick("id", "idSIButton9");
         Thread.sleep(6000);
-        safeEnterText("name","passwd","801106");
+        safeEnterText("name","passwd","******");
         Thread.sleep(6000);
         safeClick("id", "idSIButton9");
         Thread.sleep(6000);
