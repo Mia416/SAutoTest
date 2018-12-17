@@ -1,0 +1,577 @@
+[INFO  - 2018-12-10T02:39:55.969Z] GhostDriver - Main - running on port 22882
+[INFO  - 2018-12-10T02:39:57.543Z] Session [e1fd5ba0-fc24-11e8-ac78-2f16479baaa2] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-10T02:39:57.544Z] Session [e1fd5ba0-fc24-11e8-ac78-2f16479baaa2] - page.customHeaders:  - {}
+[INFO  - 2018-12-10T02:39:57.544Z] Session [e1fd5ba0-fc24-11e8-ac78-2f16479baaa2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-10T02:39:57.544Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e1fd5ba0-fc24-11e8-ac78-2f16479baaa2
+[INFO  - 2018-12-10T02:44:55.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T02:49:55.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T02:54:55.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T02:59:56.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:04:56.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:09:56.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:14:56.041Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:19:56.041Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:24:56.073Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:29:56.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:34:56.111Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:39:56.141Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:44:56.141Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:49:56.141Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:54:56.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T03:59:56.172Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:04:56.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:09:56.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:14:56.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:19:56.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:24:56.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:29:56.234Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:34:56.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:39:56.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:44:56.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:49:56.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:54:56.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T04:59:56.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:04:56.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:09:56.390Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:14:56.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:19:56.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:24:56.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:29:56.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:34:56.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:39:56.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:44:56.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:49:56.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:54:56.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T05:59:56.516Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:04:56.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:09:56.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:14:56.516Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:19:56.546Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:24:56.546Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:29:56.577Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:34:56.578Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:39:56.578Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:44:56.609Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:49:56.609Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:54:56.640Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T06:59:56.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:04:56.672Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:09:56.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:14:56.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:19:56.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:24:56.734Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:29:56.734Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:34:56.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:39:56.797Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:44:56.797Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:49:56.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:54:56.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:59:56.859Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:04:56.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:09:56.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:14:56.890Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:19:56.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:24:56.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:29:56.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:34:56.861Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:39:56.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:44:56.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:49:56.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:54:56.954Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:59:56.954Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:04:56.985Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:09:57.016Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:14:57.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:19:57.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:24:57.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:29:57.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+nd - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:52:40.382Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:57:40.413Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:02:40.413Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:07:40.444Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:12:40.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:17:40.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:22:40.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:27:40.476Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+d - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:52:22.795Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:57:22.826Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:02:22.826Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:07:22.857Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:12:22.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:17:22.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:22:22.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:27:22.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:32:22.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+8_27245_27543&csor=9&pwd=automati&cb=jQuery110209090134690050036_1544427269609&_=1544427269619:1)
+[ERROR - 2018-12-10T07:34:36.730Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209090134690050036_1544427269609')
+[ERROR - 2018-12-10T07:34:36.731Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1433_21118_18559_28018_27245_27543&csor=10&pwd=automatio&cb=jQuery110209090134690050036_1544427269609&_=1544427269620:1)
+[ERROR - 2018-12-10T07:34:36.781Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209090134690050036_1544427269609')
+[ERROR - 2018-12-10T07:34:36.781Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1433_21118_18559_28018_27245_27543&csor=11&pwd=automation&cb=jQuery110209090134690050036_1544427269609&_=1544427269621:1)
+[ERROR - 2018-12-10T07:34:36.790Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209090134690050036_1544427269609')
+[ERROR - 2018-12-10T07:34:36.791Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1433_21118_18559_28018_27245_27543&csor=12&pwd=automation%20&cb=jQuery110209090134690050036_1544427269609&_=1544427269622:1)
+[ERROR - 2018-12-10T07:34:36.890Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209090134690050036_1544427269609')
+[ERROR - 2018-12-10T07:34:36.890Z] Session [ff2e35e0-fc4d-11e8-8f98-099f7e3f767e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1433_21118_18559_28018_27245_27543&csor=15&pwd=automation%20tes&cb=jQuery110209090134690050036_1544427269609&_=1544427269625:1)
+[INFO  - 2018-12-10T07:39:14.563Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:44:14.601Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:49:14.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:54:14.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T07:59:14.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:04:14.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:09:14.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:14:14.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:19:14.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:24:14.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:29:14.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:34:14.680Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:39:14.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:44:14.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:49:14.767Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:54:14.767Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:59:14.816Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:04:14.831Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:09:14.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:14:14.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:19:14.907Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:24:14.909Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:29:14.908Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+handle - About to shutdown
+[INFO  - 2018-12-10T08:41:29.688Z] GhostDriver - Main - running on port 14022
+[INFO  - 2018-12-10T08:41:30.312Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-10T08:41:30.312Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.customHeaders:  - {}
+[INFO  - 2018-12-10T08:41:30.312Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-10T08:41:30.313Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 63e35fc0-fc57-11e8-8791-6d64cbfa960d
+[ERROR - 2018-12-10T08:41:36.133Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.133Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=5&pwd=auto&cb=jQuery110205744366743601859_1544431294097&_=1544431294103:1)
+[ERROR - 2018-12-10T08:41:36.192Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.193Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=6&pwd=autom&cb=jQuery110205744366743601859_1544431294097&_=1544431294104:1)
+[ERROR - 2018-12-10T08:41:36.319Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.319Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=7&pwd=automa&cb=jQuery110205744366743601859_1544431294097&_=1544431294105:1)
+[ERROR - 2018-12-10T08:41:36.381Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.382Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=8&pwd=automat&cb=jQuery110205744366743601859_1544431294097&_=1544431294106:1)
+[ERROR - 2018-12-10T08:41:36.461Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.461Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=10&pwd=automatio&cb=jQuery110205744366743601859_1544431294097&_=1544431294108:1)
+[ERROR - 2018-12-10T08:41:36.462Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.462Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=9&pwd=automati&cb=jQuery110205744366743601859_1544431294097&_=1544431294107:1)
+[ERROR - 2018-12-10T08:41:36.526Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.526Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=11&pwd=automation&cb=jQuery110205744366743601859_1544431294097&_=1544431294109:1)
+[ERROR - 2018-12-10T08:41:36.532Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.533Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=12&pwd=automation%20&cb=jQuery110205744366743601859_1544431294097&_=1544431294110:1)
+[ERROR - 2018-12-10T08:41:36.642Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110205744366743601859_1544431294097')
+[ERROR - 2018-12-10T08:41:36.642Z] Session [63e35fc0-fc57-11e8-8791-6d64cbfa960d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=26522_1460_21127_28019_26350_22158&csor=15&pwd=automation%20tes&cb=jQuery110205744366743601859_1544431294097&_=1544431294113:1)
+[INFO  - 2018-12-10T08:46:29.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:51:29.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:56:29.713Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:01:29.753Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:06:29.751Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:11:29.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:16:29.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:21:29.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:26:29.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:31:29.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+c57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:33.780Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=5&pwd=auto&cb=jQuery110209010002627037466_1544431351718&_=1544431351724:1)
+[ERROR - 2018-12-10T08:42:33.829Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:33.830Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=6&pwd=autom&cb=jQuery110209010002627037466_1544431351718&_=1544431351725:1)
+[ERROR - 2018-12-10T08:42:33.969Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:33.969Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=7&pwd=automa&cb=jQuery110209010002627037466_1544431351718&_=1544431351726:1)
+[ERROR - 2018-12-10T08:42:33.997Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:33.997Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=8&pwd=automat&cb=jQuery110209010002627037466_1544431351718&_=1544431351727:1)
+[ERROR - 2018-12-10T08:42:34.092Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:34.093Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=9&pwd=automati&cb=jQuery110209010002627037466_1544431351718&_=1544431351728:1)
+[ERROR - 2018-12-10T08:42:34.109Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:34.109Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=10&pwd=automatio&cb=jQuery110209010002627037466_1544431351718&_=1544431351729:1)
+[ERROR - 2018-12-10T08:42:34.140Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:34.140Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=11&pwd=automation&cb=jQuery110209010002627037466_1544431351718&_=1544431351730:1)
+[ERROR - 2018-12-10T08:42:34.161Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:34.162Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=12&pwd=automation%20&cb=jQuery110209010002627037466_1544431351718&_=1544431351731:1)
+[ERROR - 2018-12-10T08:42:34.248Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110209010002627037466_1544431351718')
+[ERROR - 2018-12-10T08:42:34.249Z] Session [86434530-fc57-11e8-86c8-df308b2ff16d] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=26522_1456_21084_18559_28019_26350&csor=15&pwd=automation%20tes&cb=jQuery110209010002627037466_1544431351718&_=1544431351734:1)
+[INFO  - 2018-12-10T08:47:27.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:52:27.049Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:57:27.061Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:02:27.097Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:07:27.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:12:27.149Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:17:27.152Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:22:27.152Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:27:27.152Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:32:27.604Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+nd - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T08:56:11.003Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:01:11.009Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:06:11.060Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:11:11.061Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:16:11.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:21:11.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:26:11.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-10T09:31:11.126Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-10T09:05:33.659Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c03057d0-fc5a-11e8-8471-5b77cd81b839
+[INFO  - 2018-12-10T09:05:39.585Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T04:36:42.216Z] GhostDriver - Main - running on port 42288
+[INFO  - 2018-12-11T04:36:42.281Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T04:36:42.281Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T04:36:42.281Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T04:36:42.287Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8
+[ERROR - 2018-12-11T04:36:47.763Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.763Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=1&cb=jQuery1102009260812844149768_1544503005958&_=1544503005960:1)
+[ERROR - 2018-12-11T04:36:47.829Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.829Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=au&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=2&pwd=a&cb=jQuery1102009260812844149768_1544503005958&_=1544503005961:1)
+[ERROR - 2018-12-11T04:36:47.919Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.919Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=5&pwd=auto&cb=jQuery1102009260812844149768_1544503005958&_=1544503005964:1)
+[ERROR - 2018-12-11T04:36:47.951Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.951Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=6&pwd=autom&cb=jQuery1102009260812844149768_1544503005958&_=1544503005965:1)
+[ERROR - 2018-12-11T04:36:47.968Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.969Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=7&pwd=automa&cb=jQuery1102009260812844149768_1544503005958&_=1544503005966:1)
+[ERROR - 2018-12-11T04:36:47.999Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:47.999Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=8&pwd=automat&cb=jQuery1102009260812844149768_1544503005958&_=1544503005967:1)
+[ERROR - 2018-12-11T04:36:48.039Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:48.039Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=9&pwd=automati&cb=jQuery1102009260812844149768_1544503005958&_=1544503005968:1)
+[ERROR - 2018-12-11T04:36:48.055Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:48.055Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=10&pwd=automatio&cb=jQuery1102009260812844149768_1544503005958&_=1544503005969:1)
+[ERROR - 2018-12-11T04:36:48.057Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:48.057Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=11&pwd=automation&cb=jQuery1102009260812844149768_1544503005958&_=1544503005970:1)
+[ERROR - 2018-12-11T04:36:48.092Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:48.093Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=12&pwd=automation%20&cb=jQuery1102009260812844149768_1544503005958&_=1544503005971:1)
+[ERROR - 2018-12-11T04:36:48.175Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102009260812844149768_1544503005958')
+[ERROR - 2018-12-11T04:36:48.176Z] Session [5b8d9be0-fcfe-11e8-a3b1-9730da5d56b8] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1468_21119_28018_26350_27750_27244_22072&csor=15&pwd=automation%20tes&cb=jQuery1102009260812844149768_1544503005958&_=1544503005974:1)
+[INFO  - 2018-12-11T04:36:54.681Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T04:47:53.846Z] GhostDriver - Main - running on port 19238
+[INFO  - 2018-12-11T04:47:54.248Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T04:47:54.248Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T04:47:54.249Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T04:47:54.249Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ec1354b0-fcff-11e8-bb75-f9baf382d661
+[ERROR - 2018-12-11T04:48:00.128Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.129Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=5&pwd=auto&cb=jQuery1102000993105280213058_1544503677923&_=1544503677929:1)
+[ERROR - 2018-12-11T04:48:00.130Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.131Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=6&pwd=autom&cb=jQuery1102000993105280213058_1544503677923&_=1544503677930:1)
+[ERROR - 2018-12-11T04:48:00.132Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.133Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=7&pwd=automa&cb=jQuery1102000993105280213058_1544503677923&_=1544503677931:1)
+[ERROR - 2018-12-11T04:48:00.196Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.196Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=8&pwd=automat&cb=jQuery1102000993105280213058_1544503677923&_=1544503677932:1)
+[ERROR - 2018-12-11T04:48:00.198Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.199Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=10&pwd=automatio&cb=jQuery1102000993105280213058_1544503677923&_=1544503677934:1)
+[ERROR - 2018-12-11T04:48:00.200Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.201Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=9&pwd=automati&cb=jQuery1102000993105280213058_1544503677923&_=1544503677933:1)
+[ERROR - 2018-12-11T04:48:00.240Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.240Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=11&pwd=automation&cb=jQuery1102000993105280213058_1544503677923&_=1544503677935:1)
+[ERROR - 2018-12-11T04:48:00.292Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.293Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=12&pwd=automation%20&cb=jQuery1102000993105280213058_1544503677923&_=1544503677936:1)
+[ERROR - 2018-12-11T04:48:00.344Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102000993105280213058_1544503677923')
+[ERROR - 2018-12-11T04:48:00.344Z] Session [ec1354b0-fcff-11e8-bb75-f9baf382d661] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1431_21123_28018_26350_27751_22072&csor=15&pwd=automation%20tes&cb=jQuery1102000993105280213058_1544503677923&_=1544503677939:1)
+[INFO  - 2018-12-11T04:48:07.228Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T05:34:07.180Z] GhostDriver - Main - running on port 34908
+[INFO  - 2018-12-11T05:34:07.325Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T05:34:07.325Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T05:34:07.325Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T05:34:07.326Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5
+[ERROR - 2018-12-11T05:34:12.833Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:12.833Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=1&cb=jQuery110204426356367766857_1544506450947&_=1544506450949:1)
+[ERROR - 2018-12-11T05:34:12.975Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:12.975Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=au&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=2&pwd=a&cb=jQuery110204426356367766857_1544506450947&_=1544506450950:1)
+[ERROR - 2018-12-11T05:34:13.117Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.117Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=7&pwd=automa&cb=jQuery110204426356367766857_1544506450947&_=1544506450955:1)
+[ERROR - 2018-12-11T05:34:13.119Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.119Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=6&pwd=autom&cb=jQuery110204426356367766857_1544506450947&_=1544506450954:1)
+[ERROR - 2018-12-11T05:34:13.132Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.132Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=5&pwd=auto&cb=jQuery110204426356367766857_1544506450947&_=1544506450953:1)
+[ERROR - 2018-12-11T05:34:13.178Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.179Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=8&pwd=automat&cb=jQuery110204426356367766857_1544506450947&_=1544506450956:1)
+[ERROR - 2018-12-11T05:34:13.184Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.185Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=9&pwd=automati&cb=jQuery110204426356367766857_1544506450947&_=1544506450957:1)
+[ERROR - 2018-12-11T05:34:13.187Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.188Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=10&pwd=automatio&cb=jQuery110204426356367766857_1544506450947&_=1544506450958:1)
+[ERROR - 2018-12-11T05:34:13.254Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.254Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=12&pwd=automation%20&cb=jQuery110204426356367766857_1544506450947&_=1544506450960:1)
+[ERROR - 2018-12-11T05:34:13.257Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.258Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=11&pwd=automation&cb=jQuery110204426356367766857_1544506450947&_=1544506450959:1)
+[ERROR - 2018-12-11T05:34:13.321Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110204426356367766857_1544506450947')
+[ERROR - 2018-12-11T05:34:13.321Z] Session [60f4fee0-fd06-11e8-8bb5-7b56c2dcf4f5] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1445_21116_28019_27750_27244_20719&csor=15&pwd=automation%20tes&cb=jQuery110204426356367766857_1544506450947&_=1544506450963:1)
+[INFO  - 2018-12-11T05:34:19.632Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T05:37:00.694Z] GhostDriver - Main - running on port 11442
+[INFO  - 2018-12-11T05:37:00.770Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T05:37:00.770Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T05:37:00.770Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T05:37:00.771Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c8567320-fd06-11e8-b0bc-0fb928df280e
+[ERROR - 2018-12-11T05:37:06.495Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.495Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=5&pwd=auto&cb=jQuery1102004109164443798363_1544506624395&_=1544506624401:1)
+[ERROR - 2018-12-11T05:37:06.636Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.637Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=6&pwd=autom&cb=jQuery1102004109164443798363_1544506624395&_=1544506624402:1)
+[ERROR - 2018-12-11T05:37:06.681Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.681Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=7&pwd=automa&cb=jQuery1102004109164443798363_1544506624395&_=1544506624403:1)
+[ERROR - 2018-12-11T05:37:06.756Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.757Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=8&pwd=automat&cb=jQuery1102004109164443798363_1544506624395&_=1544506624404:1)
+[ERROR - 2018-12-11T05:37:06.788Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.788Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=9&pwd=automati&cb=jQuery1102004109164443798363_1544506624395&_=1544506624405:1)
+[ERROR - 2018-12-11T05:37:06.838Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.838Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=11&pwd=automation&cb=jQuery1102004109164443798363_1544506624395&_=1544506624407:1)
+[ERROR - 2018-12-11T05:37:06.849Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.850Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=10&pwd=automatio&cb=jQuery1102004109164443798363_1544506624395&_=1544506624406:1)
+[ERROR - 2018-12-11T05:37:06.897Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.897Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=12&pwd=automation%20&cb=jQuery1102004109164443798363_1544506624395&_=1544506624408:1)
+[ERROR - 2018-12-11T05:37:06.951Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery1102004109164443798363_1544506624395')
+[ERROR - 2018-12-11T05:37:06.951Z] Session [c8567320-fd06-11e8-b0bc-0fb928df280e] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=26524_1467_21103_18559_28018_26350_27750_20719&csor=15&pwd=automation%20tes&cb=jQuery1102004109164443798363_1544506624395&_=1544506624411:1)
+[INFO  - 2018-12-11T05:37:13.486Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T05:37:50.022Z] GhostDriver - Main - running on port 46246
+[INFO  - 2018-12-11T05:37:50.268Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T05:37:50.269Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T05:37:50.269Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T05:37:50.269Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e5d82920-fd06-11e8-a010-3928874597f6
+[ERROR - 2018-12-11T05:37:55.855Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:55.856Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=1&cb=jQuery11020721075011882931_1544506673805&_=1544506673807:1)
+[ERROR - 2018-12-11T05:37:55.989Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:55.989Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=au&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=2&pwd=a&cb=jQuery11020721075011882931_1544506673805&_=1544506673808:1)
+[ERROR - 2018-12-11T05:37:56.065Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.065Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=5&pwd=auto&cb=jQuery11020721075011882931_1544506673805&_=1544506673811:1)
+[ERROR - 2018-12-11T05:37:56.130Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.131Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=6&pwd=autom&cb=jQuery11020721075011882931_1544506673805&_=1544506673812:1)
+[ERROR - 2018-12-11T05:37:56.139Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.139Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=8&pwd=automat&cb=jQuery11020721075011882931_1544506673805&_=1544506673814:1)
+[ERROR - 2018-12-11T05:37:56.141Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.141Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=7&pwd=automa&cb=jQuery11020721075011882931_1544506673805&_=1544506673813:1)
+[ERROR - 2018-12-11T05:37:56.200Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.200Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=9&pwd=automati&cb=jQuery11020721075011882931_1544506673805&_=1544506673815:1)
+[ERROR - 2018-12-11T05:37:56.202Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.202Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=10&pwd=automatio&cb=jQuery11020721075011882931_1544506673805&_=1544506673816:1)
+[ERROR - 2018-12-11T05:37:56.209Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.209Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=11&pwd=automation&cb=jQuery11020721075011882931_1544506673805&_=1544506673817:1)
+[ERROR - 2018-12-11T05:37:56.270Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.270Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=12&pwd=automation%20&cb=jQuery11020721075011882931_1544506673805&_=1544506673818:1)
+[ERROR - 2018-12-11T05:37:56.336Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery11020721075011882931_1544506673805')
+[ERROR - 2018-12-11T05:37:56.337Z] Session [e5d82920-fd06-11e8-a010-3928874597f6] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1440_21085_28018_26350_27750_27245&csor=15&pwd=automation%20tes&cb=jQuery11020721075011882931_1544506673805&_=1544506673821:1)
+[INFO  - 2018-12-11T05:38:02.805Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T05:47:05.738Z] GhostDriver - Main - running on port 19088
+[INFO  - 2018-12-11T06:01:44.374Z] GhostDriver - Main - running on port 9009
+[INFO  - 2018-12-11T06:01:44.530Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T06:01:44.530Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T06:01:44.530Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T06:01:44.531Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3cba6930-fd0a-11e8-b3e2-b741c09e89f7
+[ERROR - 2018-12-11T06:01:50.480Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.481Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=a&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=1&cb=jQuery110203710289071314037_1544508108183&_=1544508108185:1)
+[ERROR - 2018-12-11T06:01:50.626Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.626Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=au&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=2&pwd=a&cb=jQuery110203710289071314037_1544508108183&_=1544508108186:1)
+[ERROR - 2018-12-11T06:01:50.775Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.776Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=5&pwd=auto&cb=jQuery110203710289071314037_1544508108183&_=1544508108189:1)
+[ERROR - 2018-12-11T06:01:50.803Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.804Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=6&pwd=autom&cb=jQuery110203710289071314037_1544508108183&_=1544508108190:1)
+[ERROR - 2018-12-11T06:01:50.816Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.817Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=7&pwd=automa&cb=jQuery110203710289071314037_1544508108183&_=1544508108191:1)
+[ERROR - 2018-12-11T06:01:50.820Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.821Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=8&pwd=automat&cb=jQuery110203710289071314037_1544508108183&_=1544508108192:1)
+[ERROR - 2018-12-11T06:01:50.828Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.828Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=9&pwd=automati&cb=jQuery110203710289071314037_1544508108183&_=1544508108193:1)
+[ERROR - 2018-12-11T06:01:50.874Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.874Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=10&pwd=automatio&cb=jQuery110203710289071314037_1544508108183&_=1544508108194:1)
+[ERROR - 2018-12-11T06:01:50.920Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.921Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=11&pwd=automation&cb=jQuery110203710289071314037_1544508108183&_=1544508108195:1)
+[ERROR - 2018-12-11T06:01:50.943Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.944Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=12&pwd=automation%20&cb=jQuery110203710289071314037_1544508108183&_=1544508108196:1)
+[ERROR - 2018-12-11T06:01:50.966Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110203710289071314037_1544508108183')
+[ERROR - 2018-12-11T06:01:50.966Z] Session [3cba6930-fd0a-11e8-b3e2-b741c09e89f7] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1420_25809_21126_28019_26350_27751_27508&csor=15&pwd=automation%20tes&cb=jQuery110203710289071314037_1544508108183&_=1544508108199:1)
+[INFO  - 2018-12-11T06:02:03.279Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T06:53:20.998Z] GhostDriver - Main - running on port 35925
+[INFO  - 2018-12-11T07:34:16.322Z] GhostDriver - Main - running on port 42373
+[INFO  - 2018-12-11T07:34:16.433Z] Session [29ebbb30-fd17-11e8-ab24-d5a4d4ed0091] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T07:34:16.433Z] Session [29ebbb30-fd17-11e8-ab24-d5a4d4ed0091] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T07:34:16.433Z] Session [29ebbb30-fd17-11e8-ab24-d5a4d4ed0091] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T07:34:16.434Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 29ebbb30-fd17-11e8-ab24-d5a4d4ed0091
+[INFO  - 2018-12-11T07:39:16.454Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:44:16.490Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:49:16.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:54:16.530Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:59:16.530Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:04:16.566Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:09:16.567Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:14:16.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:19:16.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:24:16.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:29:16.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:34:16.604Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:39:16.603Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:44:16.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:49:16.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:54:16.692Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:59:16.691Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+nd - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:22:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:27:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:32:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:37:43.407Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:42:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:47:43.439Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:52:43.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:57:43.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+/su?wd=au&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=2&pwd=a&cb=jQuery110206962290918454528_1544514008738&_=1544514008741:1)
+[ERROR - 2018-12-11T07:40:10.951Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:10.951Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=autom&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=5&pwd=auto&cb=jQuery110206962290918454528_1544514008738&_=1544514008744:1)
+[ERROR - 2018-12-11T07:40:11.010Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.010Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=6&pwd=autom&cb=jQuery110206962290918454528_1544514008738&_=1544514008745:1)
+[ERROR - 2018-12-11T07:40:11.022Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.022Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=7&pwd=automa&cb=jQuery110206962290918454528_1544514008738&_=1544514008746:1)
+[ERROR - 2018-12-11T07:40:11.095Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.096Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=8&pwd=automat&cb=jQuery110206962290918454528_1544514008738&_=1544514008747:1)
+[ERROR - 2018-12-11T07:40:11.105Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.105Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=9&pwd=automati&cb=jQuery110206962290918454528_1544514008738&_=1544514008748:1)
+[ERROR - 2018-12-11T07:40:11.150Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.150Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=10&pwd=automatio&cb=jQuery110206962290918454528_1544514008738&_=1544514008749:1)
+[ERROR - 2018-12-11T07:40:11.153Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.153Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=11&pwd=automation&cb=jQuery110206962290918454528_1544514008738&_=1544514008750:1)
+[ERROR - 2018-12-11T07:40:11.158Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.158Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=12&pwd=automation%20&cb=jQuery110206962290918454528_1544514008738&_=1544514008751:1)
+[ERROR - 2018-12-11T07:40:11.241Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206962290918454528_1544514008738')
+[ERROR - 2018-12-11T07:40:11.241Z] Session [f9bfeca0-fd17-11e8-91dc-355a1b45a089] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1461_25810_21095_18560_28018_26350_27750&csor=15&pwd=automation%20tes&cb=jQuery110206962290918454528_1544514008738&_=1544514008754:1)
+[INFO  - 2018-12-11T07:45:05.026Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:50:05.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T07:55:05.066Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:00:05.109Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:05:05.113Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:10:05.148Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:15:05.149Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:20:05.186Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:25:05.187Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:30:05.187Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:35:05.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:40:05.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:45:05.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:50:05.242Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:55:05.282Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+n-up phase starting NOW
+[INFO  - 2018-12-11T08:13:26.572Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:18:26.577Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:23:26.584Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:28:26.586Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:33:26.587Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:38:26.586Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:43:26.618Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:48:26.653Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:53:26.667Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:58:26.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+18357026018202_1544514865333&_=1544514865339:1)
+[ERROR - 2018-12-11T07:54:27.646Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.647Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automa&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=6&pwd=autom&cb=jQuery110206618357026018202_1544514865333&_=1544514865340:1)
+[ERROR - 2018-12-11T07:54:27.785Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.786Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automat&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=7&pwd=automa&cb=jQuery110206618357026018202_1544514865333&_=1544514865341:1)
+[ERROR - 2018-12-11T07:54:27.832Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.832Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automati&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=8&pwd=automat&cb=jQuery110206618357026018202_1544514865333&_=1544514865342:1)
+[ERROR - 2018-12-11T07:54:27.921Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.923Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automatio&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=9&pwd=automati&cb=jQuery110206618357026018202_1544514865333&_=1544514865343:1)
+[ERROR - 2018-12-11T07:54:27.932Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.932Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=10&pwd=automatio&cb=jQuery110206618357026018202_1544514865333&_=1544514865344:1)
+[ERROR - 2018-12-11T07:54:27.975Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.975Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=11&pwd=automation&cb=jQuery110206618357026018202_1544514865333&_=1544514865345:1)
+[ERROR - 2018-12-11T07:54:27.991Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:27.991Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20t&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=12&pwd=automation%20&cb=jQuery110206618357026018202_1544514865333&_=1544514865346:1)
+[ERROR - 2018-12-11T07:54:28.087Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110206618357026018202_1544514865333')
+[ERROR - 2018-12-11T07:54:28.088Z] Session [f86bbc60-fd19-11e8-a088-d75495fdf0a2] - page.onError - stack:
+  global code (https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=automation%20test&json=1&p=3&sid=1421_21081_28019_26350_27751_27509&csor=15&pwd=automation%20tes&cb=jQuery110206618357026018202_1544514865333&_=1544514865349:1)
+[INFO  - 2018-12-11T07:54:40.632Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-12-11T08:36:09.687Z] GhostDriver - Main - running on port 2892
+[INFO  - 2018-12-11T08:49:36.683Z] GhostDriver - Main - running on port 24321
+[INFO  - 2018-12-11T08:49:37.277Z] Session [b08d52c0-fd21-11e8-ba24-9f3d770e28d5] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-11T08:49:37.277Z] Session [b08d52c0-fd21-11e8-ba24-9f3d770e28d5] - page.customHeaders:  - {}
+[INFO  - 2018-12-11T08:49:37.277Z] Session [b08d52c0-fd21-11e8-ba24-9f3d770e28d5] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-11T08:49:37.278Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b08d52c0-fd21-11e8-ba24-9f3d770e28d5
+[INFO  - 2018-12-11T08:54:36.669Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-12-11T08:59:36.706Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

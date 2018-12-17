@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88966" started-at="2018-12-17T07:51:28Z" finished-at="2018-12-17T07:52:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10" started-at="2018-12-17T07:51:28Z" finished-at="2018-12-17T07:51:28Z">
+    </test> <!-- Test -->
+    <test name="t3" duration-ms="88869" started-at="2018-12-17T07:51:28Z" finished-at="2018-12-17T07:52:57Z">
+      <class name="uitestcase.cookie.ht_login">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="setup" is-config="true" duration-ms="52" started-at="2018-12-17T15:51:28Z" finished-at="2018-12-17T15:51:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5b6ec132]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="initParams()[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="initParams" is-config="true" duration-ms="0" started-at="2018-12-17T15:51:28Z" finished-at="2018-12-17T15:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initParams -->
+        <test-method status="PASS" signature="MainPage()[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="MainPage" duration-ms="56644" started-at="2018-12-17T15:51:28Z" finished-at="2018-12-17T15:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainPage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="tearDown" is-config="true" duration-ms="4802" started-at="2018-12-17T15:52:25Z" finished-at="2018-12-17T15:52:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MainPage status=SUCCESS method=ht_login.MainPage()[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Login_cookie()[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="Login_cookie" duration-ms="24471" started-at="2018-12-17T15:52:30Z" finished-at="2018-12-17T15:52:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_cookie -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89]" name="tearDown" is-config="true" duration-ms="2933" started-at="2018-12-17T15:52:54Z" finished-at="2018-12-17T15:52:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_cookie status=SUCCESS method=ht_login.Login_cookie()[pri:0, instance:uitestcase.cookie.ht_login@56ac3a89] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uitestcase.cookie.ht_login -->
+    </test> <!-- t3 -->
+  </suite> <!-- Suite -->
+</testng-results>

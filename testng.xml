@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  </test> <!-- Test -->  
+   <parameter name="chrome.driver" value="D:\\chromedriver_win32\\chromedriver.exe" />
+   <parameter name="chrome.binary" value="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe" />
+   <parameter name="imagepath" value="D:\\workspace\\SAutoTest\\IMG\\" /> 
+   <parameter name="phantomjsBinary" value="D:\\workspace\\SAutoTest\\resource\\phantomjs\\bin\\phantomjs.exe" /> 
+   
+     <test name="t3" preserve-order="true">
+        <classes>                     
+             <class name="uitestcase.cookie.git_login">
+               <methods>
+                  <include name="MainPage" />  
+                  <include name="Login_cookie" />                
+               </methods>
+            </class>                        
+        </classes>
+    </test>
+   
+   <!--  
+    <test name="t1" preserve-order="true">
+        <classes>                     
+             <class name="uitestcase.bdtest.BD_example">
+               <methods>
+                  <include name="MainPage" />                  
+               </methods>
+            </class>                        
+        </classes>
+    </test>
+    
+    <test name="t2" preserve-order="true">
+        <classes>                     
+             <class name="uitestcase.bdtest.BD_NonUI">
+               <methods>
+                  <include name="MainPage_NonUI" />                  
+               </methods>
+            </class>                        
+        </classes>
+    </test>
+    
+   -->
+    
+    
+</suite> <!-- Suite -->

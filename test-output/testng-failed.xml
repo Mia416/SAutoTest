@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="chrome.binary" value="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"/>
+  <parameter name="imagepath" value="D:\\workspace\\SAutoTest\\IMG\\"/>
+  <parameter name="phantomjsBinary" value="D:\\workspace\\SAutoTest\\resource\\phantomjs\\bin\\phantomjs.exe"/>
+  <parameter name="chrome.driver" value="D:\\chromedriver_win32\\chromedriver.exe"/>
+  <test name="t3(failed)">
+    <classes>
+      <class name="uitestcase.cookie.ht_login">
+        <methods>
+          <include name="setup"/>
+          <include name="initParams"/>
+          <include name="MainPage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- uitestcase.cookie.ht_login -->
+    </classes>
+  </test> <!-- t3(failed) -->
+</suite> <!-- Failed suite [Suite] -->
