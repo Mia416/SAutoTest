@@ -87,7 +87,7 @@ public class git_page extends WebPage{
 	{
 		
 		safeEnterText("id","login_field","Mia416");
-		safeEnterText("id","password","820311!xiyu");
+		safeEnterText("id","password","******");
 		
          
         Thread.sleep(6000);
