@@ -22,12 +22,10 @@ public class git_login extends UITestCase {
 	public void Login_cookie()
 	{
         try {
-			driver = initChromeDriver();
+			 driver = initChromeDriver();
 			 driver.get(ht_page);//open page
-			 Thread.sleep(8000);
-		        git_page hp = new git_page(driver,logger);
-		        hp.sign_in_cookie();
-		        Thread.sleep(8000);
+			 git_page hp = new git_page(driver,logger);
+		     hp.sign_in_cookie();		       
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -42,14 +40,10 @@ public class git_login extends UITestCase {
 		
 		 try {
 	            driver = initChromeDriver();	            
-	            driver.get(ht_page);//open page
-	            Thread.sleep(8000);
+	            driver.get(ht_page);//open page	          
 	            git_page hp = new git_page(driver,logger);
 	            hp.sign_in();
-	            //BD_page bd = new BD_page(driver,logger);
-	             
-	            
-
+	                	            
 	        } catch (Exception ex) {
 	            fail(ex.getMessage());
 	        }

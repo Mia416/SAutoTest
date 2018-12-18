@@ -74,7 +74,7 @@ public class ht_page extends WebPage{
 	      finally
 		{
 	    	  driver.navigate().refresh();
-	        //driver.get("https://outlook.live.com/owa/");	
+	       	
 	        Thread.sleep(8000);
 		}
         
