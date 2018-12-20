@@ -9,6 +9,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Base64;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.Set;
@@ -91,14 +92,23 @@ public class git_page extends WebPage{
 	}	
 
 	
+	
 	public void sign_in() throws InterruptedException, IOException
 	{
+		
+		String username = "TWlhNDE2";
+		byte[] decodedBytes = Base64.getDecoder().decode(username);
+		username = new String(decodedBytes);
+		
+		String password = "ODIwMzExIXhpeXU=";
+		decodedBytes = Base64.getDecoder().decode(password);
+		password = new String(decodedBytes);
 		
 		
 		if (waitForElementToBeVisible("id","login_field")!=null)
 		{
-		    safeEnterText("id","login_field","Mia416");
-		    safeEnterText("id","password","*");
+		    safeEnterText("id","login_field",username);
+		    safeEnterText("id","password",password);
 		    safeClick("name", "commit");
         
 		    if (waitForElementToBeVisible("css","span[title='SAutoTest']")!=null)
